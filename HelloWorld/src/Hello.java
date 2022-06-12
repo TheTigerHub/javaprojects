@@ -18,7 +18,7 @@ public class Hello {
 
         System.out.println("The date and time is "+ new Date());
 
-        System.out.println("this is long "+ longthing);
+        System.out.println("this is extralongnumbertestestestest "+ longthing);
 
     }
 }
